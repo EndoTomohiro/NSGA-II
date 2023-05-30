@@ -1,4 +1,4 @@
-# graduation_thesis
+# NSGA-II
 
 卒論論文のプログラム
 
